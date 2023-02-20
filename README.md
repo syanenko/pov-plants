@@ -11,7 +11,7 @@ Geometry data obtained from [L-studio](http://algorithmicbotany.org/virtual_labo
 
 ![Sympodial_branching](https://user-images.githubusercontent.com/6688301/220132250-ea841c14-1c5f-42c4-9f41-658da5001e70.png)
 
-![Lily](https://user-images.githubusercontent.com/6688301/220132407-d93e0802-ad55-4ac5-9823-5230feaa2486.png)
+![Lily](https://user-images.githubusercontent.com/6688301/220142882-3f0adb9f-8f3b-459c-92d1-3fc64422699e.png)
 
 ![Indian_paintbrush](https://user-images.githubusercontent.com/6688301/220132377-661a5d73-984b-4581-90a4-a7edb6545b69.png)
 
