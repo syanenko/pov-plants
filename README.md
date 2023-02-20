@@ -1,7 +1,7 @@
 # Pov plants
 ### Plants collection for [POV-Ray](http://www.povray.org/) raytracer.
   
-Geometry data obtained from [L-studio](http://algorithmicbotany.org/virtual_laboratory/), color data unavailibe for some models.
+Geometry data obtained from [L-studio](http://algorithmicbotany.org/virtual_laboratory/) and converted to POV format by [PoseRay](https://sites.google.com/site/poseray/), color data unavailibe for some models.
 
 ![Gaillardia_pulchella](https://user-images.githubusercontent.com/6688301/220132353-8deb783c-9a8e-4a2a-af06-9f6c0d4a9986.png)
 
