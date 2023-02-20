@@ -5,7 +5,7 @@ Geometry data obtained from [L-studio](http://algorithmicbotany.org/virtual_labo
 
 ![Gaillardia_pulchella](https://user-images.githubusercontent.com/6688301/220132353-8deb783c-9a8e-4a2a-af06-9f6c0d4a9986.png)
 
-![Monopodial_structure](https://user-images.githubusercontent.com/6688301/220132197-aeca909e-97b6-435c-95d1-18f24f2d4dc4.png)
+![Monopodial_structure](https://user-images.githubusercontent.com/6688301/220144588-98d37d1d-d93f-4636-af3e-b599a87d56f7.png)
 
 ![Cooksonia](https://user-images.githubusercontent.com/6688301/220132327-05bb6959-085f-4370-8915-7774b15ed1b1.png)
 
