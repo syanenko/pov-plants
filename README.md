@@ -1,4 +1,4 @@
-# POV plants
+# *POV plants*
 ### Plants collection for [POV-Ray](http://www.povray.org/) raytracer.
 
 Geometry data obtained from [L-studio](http://algorithmicbotany.org/virtual_laboratory/) and converted to POV format by [PoseRay](https://sites.google.com/site/poseray/), color data unavailibe for some models.
